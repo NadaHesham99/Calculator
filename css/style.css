@@ -1,0 +1,30 @@
+.calc{
+    width: 450px;
+    margin: 100px auto;
+    padding: 20px;
+    text-align: center;
+    background:rgba(226 ,228, 234, .62);
+    border: 3px solid #bbbaba;
+    border-radius: 10px;
+    box-shadow: 2px 0px 5px 5px #eee;
+}
+.calc .result{
+    width: 91%;
+    padding: 20px 0;
+    margin-bottom: 15px;
+    background: #fff;
+    font-size: 25px;
+}
+.calc .btn,
+.calc .btn2{
+    width: 22%;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    background: #d2d2d2;
+    border: 1px solid #9a9898;
+    border-radius: 5px;
+}
+.calc .equal{
+    width: 68%
+}
